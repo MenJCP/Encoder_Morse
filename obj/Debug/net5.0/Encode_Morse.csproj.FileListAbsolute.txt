@@ -1,0 +1,16 @@
+C:\Users\TEMP.LAPTOP-TVAOR877.002\source\repos\Encode_Morse\Encode_Morse\bin\Debug\net5.0\Encode_Morse.exe
+C:\Users\TEMP.LAPTOP-TVAOR877.002\source\repos\Encode_Morse\Encode_Morse\bin\Debug\net5.0\Encode_Morse.deps.json
+C:\Users\TEMP.LAPTOP-TVAOR877.002\source\repos\Encode_Morse\Encode_Morse\bin\Debug\net5.0\Encode_Morse.runtimeconfig.json
+C:\Users\TEMP.LAPTOP-TVAOR877.002\source\repos\Encode_Morse\Encode_Morse\bin\Debug\net5.0\Encode_Morse.runtimeconfig.dev.json
+C:\Users\TEMP.LAPTOP-TVAOR877.002\source\repos\Encode_Morse\Encode_Morse\bin\Debug\net5.0\Encode_Morse.dll
+C:\Users\TEMP.LAPTOP-TVAOR877.002\source\repos\Encode_Morse\Encode_Morse\bin\Debug\net5.0\ref\Encode_Morse.dll
+C:\Users\TEMP.LAPTOP-TVAOR877.002\source\repos\Encode_Morse\Encode_Morse\bin\Debug\net5.0\Encode_Morse.pdb
+C:\Users\TEMP.LAPTOP-TVAOR877.002\source\repos\Encode_Morse\Encode_Morse\obj\Debug\net5.0\Encode_Morse.csprojAssemblyReference.cache
+C:\Users\TEMP.LAPTOP-TVAOR877.002\source\repos\Encode_Morse\Encode_Morse\obj\Debug\net5.0\Encode_Morse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEMP.LAPTOP-TVAOR877.002\source\repos\Encode_Morse\Encode_Morse\obj\Debug\net5.0\Encode_Morse.AssemblyInfoInputs.cache
+C:\Users\TEMP.LAPTOP-TVAOR877.002\source\repos\Encode_Morse\Encode_Morse\obj\Debug\net5.0\Encode_Morse.AssemblyInfo.cs
+C:\Users\TEMP.LAPTOP-TVAOR877.002\source\repos\Encode_Morse\Encode_Morse\obj\Debug\net5.0\Encode_Morse.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.LAPTOP-TVAOR877.002\source\repos\Encode_Morse\Encode_Morse\obj\Debug\net5.0\Encode_Morse.dll
+C:\Users\TEMP.LAPTOP-TVAOR877.002\source\repos\Encode_Morse\Encode_Morse\obj\Debug\net5.0\ref\Encode_Morse.dll
+C:\Users\TEMP.LAPTOP-TVAOR877.002\source\repos\Encode_Morse\Encode_Morse\obj\Debug\net5.0\Encode_Morse.pdb
+C:\Users\TEMP.LAPTOP-TVAOR877.002\source\repos\Encode_Morse\Encode_Morse\obj\Debug\net5.0\Encode_Morse.genruntimeconfig.cache
